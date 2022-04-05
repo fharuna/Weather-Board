@@ -1,19 +1,21 @@
-header {
-    background-color: pink;
-}
+
 div.title {
     
     color: white;
     text-align: center;
 }
-div.title h1 {
+h1 {
     padding: 10px;
+    color:purple;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
 }
 
 /* forecast area */
 
 main.dashboard {
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(192, 144, 236);
 }
 
 /* aside */
